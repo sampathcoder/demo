@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 int j,i,l;
 scanf("%d",&i);
@@ -10,6 +10,4 @@ if(j%2!=0)
 {
 printf("%d",j);
 }
-}
-getch():
 }
